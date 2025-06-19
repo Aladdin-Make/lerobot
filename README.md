@@ -1,11 +1,13 @@
+<div align="center">
   <div style="display: flex; gap: 1rem; justify-content: center; align-items: center;" >
     <img
       src="media/lerobot_kitae.gif"
       alt="SO-101 leader arm"
       title="SO-101 leader arm"
-      style="width: 75%;"
+      style="width: 100%;"
     />
   </div>
+</div>
 
 <p align="center">
   <picture>
