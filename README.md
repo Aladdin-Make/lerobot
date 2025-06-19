@@ -1,3 +1,12 @@
+  <div style="display: flex; gap: 1rem; justify-content: center; align-items: center;" >
+    <img
+      src="media/lerobot_kitae.gif"
+      alt="SO-101 leader arm"
+      title="SO-101 leader arm"
+      style="width: 75%;"
+    />
+  </div>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="media/lerobot-logo-thumbnail.png">
